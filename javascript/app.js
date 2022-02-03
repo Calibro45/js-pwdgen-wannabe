@@ -9,3 +9,7 @@ console.log(userSurname)
 
 const userColor = prompt("Qual'è il tuo colore preferito?", "Puffo e Torroncino");
 console.log(userColor)
+
+const PASSWORD = document.getElementById("password");
+console.log(PASSWORD)
+
